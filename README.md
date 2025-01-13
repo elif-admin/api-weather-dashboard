@@ -34,13 +34,16 @@ Install the dependencies using the following command:
 pip install -r requirements.txt  
 Additionally, create a .gitignore file to exclude sensitive or unnecessary files (e.g., .env and __pycache__) when pushing to a repository.
  ![image](https://github.com/user-attachments/assets/83b6aed9-2ff6-47a7-8f26-6e7a4ec6a9fb)
+
 Or like that:
  ![image](https://github.com/user-attachments/assets/1cb12b4e-6c4f-4bac-aff2-0550eaad0cd1)
+
 Step 2: Configure AWS Credentials
 To interact with AWS, configure your credentials by following this guide. You’ll need your AWS Access Key and AWS Secret Key.
 Step 3: Sign Up for OpenWeather
 Sign up on OpenWeather to obtain your API key. After signing in, navigate to your dashboard to find the API key.
  ![image](https://github.com/user-attachments/assets/7fe0218d-f9fc-4238-b851-cbc834eb420e)
+
 You can see the API key here:
  ![image](https://github.com/user-attachments/assets/59ce9a14-d60b-4a0d-aa40-5dc3a3683ca4)
 
